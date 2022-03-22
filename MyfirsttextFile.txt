@@ -1,6 +1,7 @@
 Usually Data Providers use a connection string containing a collection of parameters to establish the connection with the database through applications. The .NET Framework provides mainly three data providers, they are:
 
 Microsoft SQL Server
+Sql
 OLEDB
 ODBC
 Here you can see how to make a connection string to the following ADO.NET Data Providers.
